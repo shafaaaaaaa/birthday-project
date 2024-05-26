@@ -1,38 +1,217 @@
-.App {
-  text-align: center;
-}
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+
+/* .main-container {
+  background-color: rgb(11, 11, 41);
+  width: 100%;
+  height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
 }
 
-.App-link {
-  color: #61dafb;
+.card {
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-shadow: 5px 5px 5px 5px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.heading {
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  padding-bottom: 5px;
+}
+
+.wishes-text {
+  font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-align: justify;
+  padding-bottom: 20px;
+}
+
+.signature {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  text-align: right;
+  font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+  gap: 5px;
+}
+
+.audio {
+  margin-left: 57px;
+  margin-bottom: 10px;
+}
+
+.emoticon {
+  align-items: center;
+} */
+
+/* Gayakan hanya berlaku pada layar desktop */
+@media only screen and (min-width: 768px) {
+  
+    .main-container {
+      background-color: rgb(11, 11, 41);
+      width: 100%;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .picture {
+      width: 250px;
+    }
+
+    .section1 {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+    }
+    
+    .card {
+      border-radius: 10px;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      box-shadow: 5px 5px 5px 5px;
+      margin-left: 300px;
+      margin-right: 300px;
+      background-color: white;
+    }
+    
+    .heading {
+      font-family: "Poetsen One", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      padding-bottom: 5px;
+    }
+    
+    .wishes-text {
+      font-family: "Indie Flower", cursive;
+      font-weight: 400;
+      font-style: normal;
+      text-align: justify;
+      padding-top: 10px;
+      padding-bottom: 20px;
+    }
+    
+    .signature {
+      display: flex;
+      justify-content: end;
+      align-items: center;
+      text-align: right;
+      font-family: "Indie Flower", cursive;
+      font-weight: 400;
+      font-style: normal;
+      gap: 5px;
+    }
+    
+    .audio {
+      margin-left: 57px;
+      margin-bottom: 10px;
+    }
+    
+    .emoticon {
+      align-items: center;
+    }
   }
-  to {
-    transform: rotate(360deg);
+
+
+/* Gayakan hanya berlaku pada layar mobile */
+@media only screen and (max-width: 767px) {
+  .main-container {
+    background-color: rgb(11, 11, 41);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
+  
+  .card {
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: 3px 3px 3px 3px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: white;
+  }
+
+  .section1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .heading {
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-bottom: 5px;
+  }
+
+
+  
+  .wishes-text {
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+    /* text-align: justify; */
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+  
+  .signature {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    text-align: right;
+    font-family: "Indie Flower", cursive;
+    font-weight: 400;
+    font-style: normal;
+    gap: 5px;
+  }
+  
+  .audio {
+    /* margin-left: 57px; */
+    margin-top: 15px;
+    margin-bottom: 10px;
+    /* padding-left: 25px;
+    padding-right: 25px; */
+  }
+  
+  .emoticon {
+    align-items: center;
+  }
+
+  .picture {
+    padding-top: 15px;
+    width: 250px;
+  }
+}
+
+
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: white;
 }
