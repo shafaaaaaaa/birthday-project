@@ -2,7 +2,7 @@
   "name": "birthday-card",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/shafaaaaaaa/birthday-project.git",
+  "homepage": "https://shafaaaaaaa.github.io/birthday-project.git",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
     "@testing-library/jest-dom": "^5.17.0",
