@@ -68,14 +68,14 @@ const Home = () => {
             <p className="text-lg">Happy 18!</p>
           </div>
           <p className="wishes-text">
-            Wishing you a birthday filled with all the things that make you
-            smile, Adrian. I wish you will always be healthy, all your affairs
-            will be made easier, and you will be given the strength and
-            enthusiasm to continue to pursue your dreams and overcome all the
-            challenges that come your way. Don't ever get tired of the process,
-            one day you will get there. <br /> By the way, we are the same age
-            now!! wkwk, all the best for you yaa, Thank you for taking the time
-            to read this to the end.
+            Wishing you a birthday filled with things that make you
+            smile, Adrian. I wish you always be healthy, Allah makes all
+            your affairs easy, & you will be given the strength and enthusiasm
+            to continue to pursue your dreams and overcome all the challenges
+            that come your way. Don't ever get tired of the process, one day you
+            will get there. <br /> By the way, we are the same age now!! wkwk,
+            all the best for you yaa, Thank you for taking the time to read this
+            to the end.
           </p>
           <p className="signature">
             Sweet Regards, Izzati
