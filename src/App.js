@@ -50,7 +50,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/birthday-project/" element={<Confirm />} />
+        <Route path="/" element={<Confirm />} />
         <Route path="/home" element={<Home />} />
       </Routes>
     </Router>
