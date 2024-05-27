@@ -3,8 +3,9 @@ import LazyLoad from "react-lazyload";
 import "../App.css";
 import Doll3 from "../Assets/cc19a9b4-8ef1-4d04-836f-2c883c14863f.jpeg";
 import AudioFile from "../Assets/selamat-ulang-tahun.mp3";
-// import { FaRegSmileBeam } from "react-icons/fa";
+import { FaRegSmileBeam } from "react-icons/fa";
 import Confetti from "react-confetti";
+
 
 const Home = () => {
   const [width, setWidth] = React.useState(window.innerWidth);
@@ -90,10 +91,12 @@ const Home = () => {
             way. Don't ever get tired of the process, one day you will get
             there. <br /> By the way, we are the same age now!! wkwk, all the
             best for you yaa, Thank you for taking the time to read this to the
-            end.
+            end. 
           </p>
           <p className="signature">
-            Sweet Regards, Izzati 😊
+            Sweet Regards, Izzati Shafa.
+            {/* <FaRegSmileBeam />  */}
+             <br />🤟🪐🌏
           </p>
         </section>
       </div>
