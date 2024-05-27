@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/birthday-project/static/css/main.7e3c9080.css",
-    "main.js": "/birthday-project/static/js/main.81d2018d.js",
+    "main.js": "/birthday-project/static/js/main.0d9e621b.js",
     "static/js/453.dea0c668.chunk.js": "/birthday-project/static/js/453.dea0c668.chunk.js",
     "static/media/selamat-ulang-tahun.mp3": "/birthday-project/static/media/selamat-ulang-tahun.8c8760c0f26d5ad93f55.mp3",
     "static/media/cc19a9b4-8ef1-4d04-836f-2c883c14863f.jpeg": "/birthday-project/static/media/cc19a9b4-8ef1-4d04-836f-2c883c14863f.71c766ab313186e1489b.jpeg",
     "index.html": "/birthday-project/index.html",
     "main.7e3c9080.css.map": "/birthday-project/static/css/main.7e3c9080.css.map",
-    "main.81d2018d.js.map": "/birthday-project/static/js/main.81d2018d.js.map",
+    "main.0d9e621b.js.map": "/birthday-project/static/js/main.0d9e621b.js.map",
     "453.dea0c668.chunk.js.map": "/birthday-project/static/js/453.dea0c668.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e3c9080.css",
-    "static/js/main.81d2018d.js"
+    "static/js/main.0d9e621b.js"
   ]
 }
