@@ -91,10 +91,10 @@ const Home = () => {
             way. Don't ever get tired of the process, one day you will get
             there. <br /> By the way, we are the same age now!! wkwk, all the
             best for you yaa, Thank you for taking the time to read this to the
-            end. 
+            end.
           </p>
           <p className="signature">
-            Sweet Regards, Izzati Shafa.
+            Sweet Regards, Izzati
             {/* <FaRegSmileBeam />  */}
              <br />🤟🪐🌏
           </p>
