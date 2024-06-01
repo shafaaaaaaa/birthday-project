@@ -6,7 +6,6 @@ import AudioFile from "../Assets/selamat-ulang-tahun.mp3";
 import { FaRegSmileBeam } from "react-icons/fa";
 import Confetti from "react-confetti";
 
-
 const Home = () => {
   const [width, setWidth] = React.useState(window.innerWidth);
   const [height, setHeight] = React.useState(window.innerHeight);
@@ -54,7 +53,6 @@ const Home = () => {
       });
     }
   };
-  
 
   return (
     <div className="main-container">
@@ -80,12 +78,12 @@ const Home = () => {
         </section>
         <section className="p-10">
           <div className="heading">
-            <p className="font-bold text-3xl pb-4">Hi, Adrian.</p>
+            <p className="font-bold text-3xl pb-4">Hi, Andina.</p>
             <p className="text-lg">Happy 18!</p>
           </div>
           <p className="wishes-text">
             Wishing you a birthday filled with things that make you smile,
-            Adrian. I wish you always be healthy, Allah makes all your affairs
+            Andina. I wish you always be healthy, Allah makes all your affairs
             easy, & you will be given the strength and enthusiasm to continue to
             pursue your dreams and overcome all the challenges that come your
             way. Don't ever get tired of the process, one day you will get
@@ -96,7 +94,8 @@ const Home = () => {
           <p className="signature">
             Sweet Regards, Izzati
             {/* <FaRegSmileBeam />  */}
-             <br />🤟🪐🌏
+            <br />
+            🤟🪐🌏
           </p>
         </section>
       </div>
