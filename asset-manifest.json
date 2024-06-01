@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/d-day/static/css/main.6f106c63.css",
-    "main.js": "/d-day/static/js/main.1db03b93.js",
+    "main.js": "/d-day/static/js/main.20431dba.js",
     "static/js/453.dea0c668.chunk.js": "/d-day/static/js/453.dea0c668.chunk.js",
     "static/media/selamat-ulang-tahun.mp3": "/d-day/static/media/selamat-ulang-tahun.8c8760c0f26d5ad93f55.mp3",
     "static/media/cc19a9b4-8ef1-4d04-836f-2c883c14863f.jpeg": "/d-day/static/media/cc19a9b4-8ef1-4d04-836f-2c883c14863f.71c766ab313186e1489b.jpeg",
     "index.html": "/d-day/index.html",
     "main.6f106c63.css.map": "/d-day/static/css/main.6f106c63.css.map",
-    "main.1db03b93.js.map": "/d-day/static/js/main.1db03b93.js.map",
+    "main.20431dba.js.map": "/d-day/static/js/main.20431dba.js.map",
     "453.dea0c668.chunk.js.map": "/d-day/static/js/453.dea0c668.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f106c63.css",
-    "static/js/main.1db03b93.js"
+    "static/js/main.20431dba.js"
   ]
 }
