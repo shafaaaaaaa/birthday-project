@@ -7,10 +7,15 @@
       flex-direction: column;
       justify-content: center;
       align-items: center;
+      background-color: rgb(11, 11, 41);
+      background-image: linear-gradient(to right, rgb(0, 0, 0) , rgb(126, 119, 119));
     }
   
     .picture {
       width: 250px;
+      border: none;
+      border-radius: 100%;
+      cursor: pointer;
     }
   
     .section1 {
@@ -65,32 +70,6 @@
     .emoticon {
       align-items: center;
     }
-  
-    @media (prefers-color-scheme: light) {
-      .main-container {
-        background-color: rgb(11, 11, 41);
-      }
-  
-      .card {
-        box-shadow: 5px 5px 5px 5px;
-      }
-    }
-  
-    @media (prefers-color-scheme: dark) {
-      .main-container {
-        background-color: black;
-      }
-  
-      .picture {
-        width: 240px;
-        border-radius: 100%;
-        cursor: pointer;
-      }
-  
-      .card {
-        box-shadow: none;
-      }
-    }
   }
   
   /* Gaya untuk layar dengan lebar maksimal 767px */
@@ -102,11 +81,14 @@
       flex-direction: column;
       justify-content: center;
       align-items: center;
+      background-color: rgb(11, 11, 41);
+      background-image: linear-gradient(to right, rgb(0, 0, 0) , rgb(126, 119, 119));
     }
   
     .picture {
       width: 240px;
       padding-top: 15px;
+      border-radius: 100%;
     }
   
     .section1 {
@@ -168,30 +150,5 @@
       height: 100vh;
       background-color: white;
     }
-  
-    @media (prefers-color-scheme: light) {
-      .main-container {
-        background-color: rgb(11, 11, 41);
-      }
-  
-      .card {
-        box-shadow: 3px 3px 3px 3px;
-      }
-    }
-  
-    @media (prefers-color-scheme: dark) {
-      .main-container {
-        background-color: black;
-      }
-  
-      .card {
-        box-shadow: none;
-      }
-  
-      .picture {
-        border-radius: 100%;
-        cursor: pointer;
-      }
-    }
-  }
+}
   
