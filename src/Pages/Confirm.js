@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import "../App.css"
+import "../App2.css"
 
 const Confirm = () => {
   const navigate = useNavigate();
@@ -15,7 +15,7 @@ const Confirm = () => {
         <p className="font-mono text-xl font-extrabold">Are You Ready?</p>
         <a
           onClick={handleClick}
-          className="font-sans font-semibold bg-sky-900 hover:bg-sky-900/75 text-md text-white px-8 py-1 border-none rounded-[20px] cursor-pointer shadow shadow-3xl"
+          className="font-sans font-semibold bg-white hover:bg-black hover:text-white text-md text-black px-8 py-1 border-2 border-black rounded-[20px] cursor-pointer shadow shadow-3xl"
         >
           Yes
         </a>

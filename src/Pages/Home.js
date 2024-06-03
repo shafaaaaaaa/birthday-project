@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import LazyLoad from "react-lazyload";
-import "../App.css";
+import "../App2.css";
 import Doll3 from "../Assets/cc19a9b4-8ef1-4d04-836f-2c883c14863f.jpeg";
 import AudioFile from "../Assets/selamat-ulang-tahun2.mp3";
 import Confetti from "react-confetti";
