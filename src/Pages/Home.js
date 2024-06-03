@@ -82,7 +82,7 @@ const Home = () => {
             best for you yaa, Thank you for taking the time to read this to the
             end.
           </p>
-          <p className="signature">Sweet Regards, Izzati.</p>
+          <p className="signature text-right">Sweet Regards, Izzati.</p>
           <p className="text-right">🤟🪐🌏</p>
         </section>
       </div>
