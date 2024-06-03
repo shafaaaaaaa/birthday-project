@@ -15,7 +15,7 @@ const Confirm = () => {
         <p className="font-mono text-xl font-extrabold">Are You Ready?</p>
         <a
           onClick={handleClick}
-          className="font-sans font-semibold bg-sky-950 hover:bg-sky-900 text-md text-white px-5 py-1 border border-none rounded-full cursor-pointer shadow shadow-3xl"
+          className="font-sans font-semibold bg-sky-900 hover:bg-sky-900/75 text-md text-white px-8 py-1 border-none rounded-[20px] cursor-pointer shadow shadow-3xl"
         >
           Yes
         </a>
