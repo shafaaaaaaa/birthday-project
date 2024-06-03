@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/d-day/static/css/main.91ea6bfa.css",
-    "main.js": "/d-day/static/js/main.6246c1a5.js",
+    "main.css": "/d-day/static/css/main.b02c606e.css",
+    "main.js": "/d-day/static/js/main.922aa830.js",
     "static/js/453.dea0c668.chunk.js": "/d-day/static/js/453.dea0c668.chunk.js",
     "static/media/selamat-ulang-tahun2.mp3": "/d-day/static/media/selamat-ulang-tahun2.5ab2952b74ab916e3a6a.mp3",
     "static/media/cc19a9b4-8ef1-4d04-836f-2c883c14863f.jpeg": "/d-day/static/media/cc19a9b4-8ef1-4d04-836f-2c883c14863f.71c766ab313186e1489b.jpeg",
     "index.html": "/d-day/index.html",
-    "main.91ea6bfa.css.map": "/d-day/static/css/main.91ea6bfa.css.map",
-    "main.6246c1a5.js.map": "/d-day/static/js/main.6246c1a5.js.map",
+    "main.b02c606e.css.map": "/d-day/static/css/main.b02c606e.css.map",
+    "main.922aa830.js.map": "/d-day/static/js/main.922aa830.js.map",
     "453.dea0c668.chunk.js.map": "/d-day/static/js/453.dea0c668.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91ea6bfa.css",
-    "static/js/main.6246c1a5.js"
+    "static/css/main.b02c606e.css",
+    "static/js/main.922aa830.js"
   ]
 }
